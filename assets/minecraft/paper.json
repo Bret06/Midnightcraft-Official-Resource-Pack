@@ -1,0 +1,14 @@
+{
+    "overrides": [
+        {
+            "model": "midnightcraft:minigame_statues/sg",
+            "predicate": {
+                "custom_model_data": 32
+            }
+        }
+    ],
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    }
+}

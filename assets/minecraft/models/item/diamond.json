@@ -9,6 +9,6 @@
     ],
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/paper"
+        "layer0": "item/diamond"
     }
 }

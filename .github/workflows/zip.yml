@@ -12,11 +12,11 @@ jobs:
         git config --global user.email "bretholloway06@gmail.com"
         git config pull.rebase false
         git pull
-        rm -f Cross-Champions-Resource-Pack.zip
+        rm -f Midnightcraft-Resource-Pack.zip
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'Cross-Champions-Resource-Pack.zip'
+        filename: 'Midnightcraft-Resource-Pack.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig /*backups/*'
     - name: push changes to remote
       run: |

@@ -162,6 +162,17 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"translation": [-2, -31.25, 0],
+			"scale": [1.66, 1.66, 1.66]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [-2, 1.5, -18.25],
+			"scale": [2, 2, 2]
+		}
+	},
 	"groups": [
 		{
 			"name": "bone",

@@ -11,6 +11,12 @@
             "predicate": {
                 "custom_model_data": 48
             }
+        },
+        {
+            "model": "midnightcraft:decorations/animals/frog",
+            "predicate": {
+                "custom_model_data": 49
+            }
         }
     ],
     "parent": "item/generated",

@@ -5,6 +5,12 @@
             "predicate": {
                 "custom_model_data": 32
             }
+        },
+        {
+            "model": "midnightcraft:decorations/chairs/chair2",
+            "predicate": {
+                "custom_model_data": 48
+            }
         }
     ],
     "parent": "item/generated",

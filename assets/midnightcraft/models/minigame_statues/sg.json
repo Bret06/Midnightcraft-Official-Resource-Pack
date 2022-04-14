@@ -477,7 +477,7 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [-2, 7.5, -53],
+			"translation": [-2, 5, -53],
 			"scale": [2.5, 2.5, 2.5]
 		}
 	},

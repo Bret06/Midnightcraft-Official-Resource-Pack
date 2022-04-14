@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "ascent": 7,
+            "chars": [
+                "\uCD01"
+            ],
+            "file": "midnightcraft:text/survival_games.png",
+            "height": 8,
+            "type": "bitmap"
+        }
+    ]
+}

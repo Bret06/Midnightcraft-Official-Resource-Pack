@@ -227,6 +227,12 @@
             "predicate": {
                 "custom_model_data": 576
             }
+        },
+        {
+            "model": "builder:item/decorations/random/tent",
+            "predicate": {
+                "custom_model_data": 592
+            }
         }
     ],
     "parent": "item/generated",

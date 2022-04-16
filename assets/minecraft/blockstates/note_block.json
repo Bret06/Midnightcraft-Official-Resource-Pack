@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "instrument=banjo,note=0,powered=false": {
+            "model": "block/note_block"
+        },
+        "instrument=banjo,note=1,powered=false": {
+            "model": "midnightcraft:block/crate/crate1"
+        }
+    }
+}

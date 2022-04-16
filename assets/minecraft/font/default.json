@@ -334,6 +334,15 @@
             "type": "bitmap"
         },
         {
+            "ascent": 8,
+            "chars": [
+                "\uBB38"
+            ],
+            "file": "builder:ui/tent.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
             "ascent": 7,
             "chars": [
                 "\uCD01"

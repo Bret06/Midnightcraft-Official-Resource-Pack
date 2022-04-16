@@ -17,6 +17,12 @@
             "predicate": {
                 "custom_model_data": 49
             }
+        },
+        {
+            "model": "midnightcraft:decorations/moon_statue",
+            "predicate": {
+                "custom_model_data": 64
+            }
         }
     ],
     "parent": "item/generated",

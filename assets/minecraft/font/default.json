@@ -1,7 +1,196 @@
 {
     "providers": [
         {
+            "ascent": 14,
+            "chars": [
+                "\uBC02"
+            ],
+            "file": "builder:ui/gui/icon.png",
+            "height": 20,
+            "type": "bitmap"
+        },
+        {
             "ascent": 8,
+            "chars": [
+                "\uBC01"
+            ],
+            "file": "builder:ui/gui/builder_book_layout.png",
+            "height": 126,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\uBC00"
+            ],
+            "file": "builder:ui/gui/pixel_nosplit.png",
+            "height": -1.5,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\uBC05"
+            ],
+            "file": "builder:ui/gui/pixel_split.png",
+            "height": 0.5,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBBB1"
+            ],
+            "file": "builder:ui/blocks/crate1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA02"
+            ],
+            "file": "builder:ui/blocks/white_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA03"
+            ],
+            "file": "builder:ui/blocks/orange_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA04"
+            ],
+            "file": "builder:ui/blocks/magenta_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA05"
+            ],
+            "file": "builder:ui/blocks/light_blue_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA06"
+            ],
+            "file": "builder:ui/blocks/yellow_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA07"
+            ],
+            "file": "builder:ui/blocks/lime_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA08"
+            ],
+            "file": "builder:ui/blocks/pink_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA09"
+            ],
+            "file": "builder:ui/blocks/grey_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA10"
+            ],
+            "file": "builder:ui/blocks/light_grey_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA11"
+            ],
+            "file": "builder:ui/blocks/cyan_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA12"
+            ],
+            "file": "builder:ui/blocks/purple_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA13"
+            ],
+            "file": "builder:ui/blocks/blue_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA14"
+            ],
+            "file": "builder:ui/blocks/brown_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA15"
+            ],
+            "file": "builder:ui/blocks/green_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA16"
+            ],
+            "file": "builder:ui/blocks/red_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA17"
+            ],
+            "file": "builder:ui/blocks/black_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
             "chars": [
                 "\uBB01"
             ],
@@ -10,7 +199,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB02"
             ],
@@ -19,7 +208,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB03"
             ],
@@ -28,7 +217,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB04"
             ],
@@ -37,7 +226,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB05"
             ],
@@ -46,7 +235,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB06"
             ],
@@ -55,7 +244,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB07"
             ],
@@ -64,7 +253,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB08"
             ],
@@ -73,7 +262,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB09"
             ],
@@ -82,7 +271,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB10"
             ],
@@ -91,7 +280,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB11"
             ],
@@ -100,7 +289,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB12"
             ],
@@ -109,7 +298,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB13"
             ],
@@ -118,7 +307,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB14"
             ],
@@ -127,7 +316,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB15"
             ],
@@ -136,7 +325,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB16"
             ],
@@ -145,7 +334,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB17"
             ],
@@ -154,7 +343,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB18"
             ],
@@ -163,7 +352,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB19"
             ],
@@ -172,7 +361,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB20"
             ],
@@ -181,7 +370,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB21"
             ],
@@ -190,7 +379,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB22"
             ],
@@ -199,7 +388,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB23"
             ],
@@ -208,7 +397,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB24"
             ],
@@ -217,7 +406,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB25"
             ],
@@ -226,7 +415,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB26"
             ],
@@ -235,7 +424,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB27"
             ],
@@ -244,7 +433,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB28"
             ],
@@ -253,7 +442,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB29"
             ],
@@ -262,7 +451,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB30"
             ],
@@ -271,7 +460,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB31"
             ],
@@ -280,7 +469,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB32"
             ],
@@ -289,7 +478,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB33"
             ],
@@ -298,7 +487,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB34"
             ],
@@ -307,7 +496,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB35"
             ],
@@ -316,7 +505,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB36"
             ],
@@ -325,7 +514,7 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB37"
             ],
@@ -334,11 +523,29 @@
             "type": "bitmap"
         },
         {
-            "ascent": 8,
+            "ascent": 7,
             "chars": [
                 "\uBB38"
             ],
             "file": "builder:ui/tent.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB39"
+            ],
+            "file": "builder:ui/lamp_post.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB40"
+            ],
+            "file": "builder:ui/sack1.png",
             "height": 16,
             "type": "bitmap"
         },

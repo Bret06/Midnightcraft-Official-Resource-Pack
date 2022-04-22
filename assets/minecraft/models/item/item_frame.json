@@ -1,6 +1,108 @@
 {
     "overrides": [
         {
+            "model": "builder:block/crate/crate1",
+            "predicate": {
+                "custom_model_data": 1
+            }
+        },
+        {
+            "model": "builder:block/planks/white_planks",
+            "predicate": {
+                "custom_model_data": 2
+            }
+        },
+        {
+            "model": "builder:block/planks/orange_planks",
+            "predicate": {
+                "custom_model_data": 3
+            }
+        },
+        {
+            "model": "builder:block/planks/magenta_planks",
+            "predicate": {
+                "custom_model_data": 4
+            }
+        },
+        {
+            "model": "builder:block/planks/light_blue_planks",
+            "predicate": {
+                "custom_model_data": 5
+            }
+        },
+        {
+            "model": "builder:block/planks/yellow_planks",
+            "predicate": {
+                "custom_model_data": 6
+            }
+        },
+        {
+            "model": "builder:block/planks/lime_planks",
+            "predicate": {
+                "custom_model_data": 7
+            }
+        },
+        {
+            "model": "builder:block/planks/pink_planks",
+            "predicate": {
+                "custom_model_data": 8
+            }
+        },
+        {
+            "model": "builder:block/planks/grey_planks",
+            "predicate": {
+                "custom_model_data": 9
+            }
+        },
+        {
+            "model": "builder:block/planks/light_grey_planks",
+            "predicate": {
+                "custom_model_data": 10
+            }
+        },
+        {
+            "model": "builder:block/planks/cyan_planks",
+            "predicate": {
+                "custom_model_data": 11
+            }
+        },
+        {
+            "model": "builder:block/planks/purple_planks",
+            "predicate": {
+                "custom_model_data": 12
+            }
+        },
+        {
+            "model": "builder:block/planks/blue_planks",
+            "predicate": {
+                "custom_model_data": 13
+            }
+        },
+        {
+            "model": "builder:block/planks/brown_planks",
+            "predicate": {
+                "custom_model_data": 14
+            }
+        },
+        {
+            "model": "builder:block/planks/green_planks",
+            "predicate": {
+                "custom_model_data": 15
+            }
+        },
+        {
+            "model": "builder:block/planks/red_planks",
+            "predicate": {
+                "custom_model_data": 16
+            }
+        },
+        {
+            "model": "builder:block/planks/black_planks",
+            "predicate": {
+                "custom_model_data": 17
+            }
+        },
+        {
             "model": "builder:item/decorations/pebbles/rocks1",
             "predicate": {
                 "custom_model_data": 256
@@ -232,6 +334,18 @@
             "model": "builder:item/decorations/random/tent",
             "predicate": {
                 "custom_model_data": 592
+            }
+        },
+        {
+            "model": "builder:item/decorations/lanterns/lamp_post",
+            "predicate": {
+                "custom_model_data": 608
+            }
+        },
+        {
+            "model": "builder:item/decorations/random/sack1",
+            "predicate": {
+                "custom_model_data": 624
             }
         }
     ],
